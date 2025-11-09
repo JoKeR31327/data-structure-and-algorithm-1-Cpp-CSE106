@@ -1,0 +1,7 @@
+1.Task 1 folder contains the codes of task1 for implementation of both array and Linked list.
+
+2.Task 2 folder contains two folders. Each containing the codes for task2 implementing
+both array and Linked list including their headers.
+
+3.Task 3 has two folders. Each containing the codes for task3 implementing array and Linkedlist
+including their headers.
